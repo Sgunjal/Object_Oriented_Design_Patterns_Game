@@ -1,0 +1,13 @@
+Assignment No 5 OODP
+
+Name :- Sujay Prabhakar Gunjal
+CWID:- A20351746
+
+Group Member:-
+
+1) Sujay Prabhakar Gunjal
+
+Steps to run program:-
+
+1) Exceute javac Flyweight_Animal.java
+2) Execute java Flyweight_Animal
